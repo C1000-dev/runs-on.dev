@@ -4,6 +4,8 @@
     "github": "Mainao"
   },
   "claimedAt": "2026-09-26T13:50:33.651Z",
-  "records": {},
+  "records": {
+    "CNAME": "57fb02f3a5d30a.vercel-dns-017.com"
+  },
   "country": "IN"
 }
