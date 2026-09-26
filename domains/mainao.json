@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "57fb02f3a5d30a.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=mainao.runs-on.dev,60f94cfe0ea3e22e3326"
+      ]
+    }
+  }
 }
