@@ -4,10 +4,22 @@
     "github": "ketanndewalkar"
   },
   "claimedAt": "2026-09-22T10:22:03.004Z",
-  "records": {},
+  "records": {
+    "CNAME": "b9c48c3a642b1def.vercel-dns-017.com"
+  },
   "country": "IN",
   "profile": {
     "name": "ketanndewalkar",
     "bio": "I turn wild ideas into running software. CSE student, full-stack dev, and builder working with MERN, Docker & WebRTC. Curious by default. Always shipping."
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=ketan.run-on.dev,b8e060f7a3d19b58e5f4"
+      ]
+    },
+    "ketan": {
+      "CNAME": "b9c48c3a642b1def.vercel-dns-017.com"
+    }
   }
 }
