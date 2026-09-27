@@ -7,16 +7,6 @@
   "records": {
     "URL": "https://runson-dev-grammar-cicd-presentatio.vercel.app/"
   },
-  "subdomains": {
-    "resentation": {
-      "CNAME": "65be82c55380c7c8.vercel-dns-017.com"
-    },
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=resentation.runs-on.dev,b28899651a34c3154487"
-      ]
-    }
-  },
   "profile": {
     "name": "English"
   },
