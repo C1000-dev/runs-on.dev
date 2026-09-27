@@ -4,14 +4,7 @@
     "github": "varunojhaa"
   },
   "claimedAt": "2026-09-17T14:45:51.903Z",
-  "records": {
-    "MX": [
-      {
-        "priority": 9,
-        "value": "inbound-smtp.ap-northeast-1.amazonaws.com"
-      }
-    ]
-  },
+  "records": {},
   "country": "IN",
   "subdomains": {
     "send": {
