@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "1e4610cbb46ee64d.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=dwarkeshramani.runs-on.dev,805f617a840bccd4fbd9"
+      ]
+    }
+  }
 }
