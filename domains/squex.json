@@ -14,9 +14,9 @@
     "name": "EditSquex"
   },
   "subdomains": {
-    "squex": {
+    "_discord": {
       "TXT": [
-        "_discord.squex.runs-on.dev"
+        "dh=db069198ee36bda2a73b256d95713442edf5fb76"
       ]
     }
   }
