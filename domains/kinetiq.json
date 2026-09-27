@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "588de15e2ac53074.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=kinetiq.runs-on.dev,937f462f8c6f7189b131"
-      ]
-    }
-  }
+  "country": "IN"
 }

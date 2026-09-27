@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "1e3709f3d102d4c5.vercel-dns-017.com"
   },
-  "country": "BD",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=itzzikram.runs-on.dev,cdf99893c36bb93f9eaf"
-      ]
-    }
-  }
+  "country": "BD"
 }

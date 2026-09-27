@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=dwarkeshramani.runs-on.dev,805f617a840bccd4fbd9"
-      ]
-    },
     "lzgwo3jti2bq": {
       "CNAME": "gv-ya2ztiu6vicq6a.dv.googlehosted.com"
     }

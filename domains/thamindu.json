@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "a932ae48b723c416.vercel-dns-017.com"
   },
-  "country": "LK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=thamindu.runs-on.dev,8b43862155dd9e61426f"
-      ]
-    }
-  }
+  "country": "LK"
 }
