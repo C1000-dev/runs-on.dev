@@ -4,6 +4,8 @@
     "github": "Neemayg"
   },
   "claimedAt": "2026-09-27T12:00:49.585Z",
-  "records": {},
+  "records": {
+    "CNAME": "neemayg.vercel-dns.com"
+  },
   "country": "IN"
 }
