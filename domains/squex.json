@@ -12,5 +12,12 @@
   "country": "TR",
   "profile": {
     "name": "EditSquex"
+  },
+  "subdomains": {
+    "squex": {
+      "TXT": [
+        "_discord.squex.runs-on.dev"
+      ]
+    }
   }
 }
