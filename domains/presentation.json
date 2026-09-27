@@ -10,5 +10,15 @@
   "profile": {
     "name": "English"
   },
-  "country": "MA"
+  "country": "MA",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=presentation.runs-on.dev,dca3e68ea386f4bf6378"
+      ]
+    },
+    "presentation": {
+      "CNAME": "65be82c55380c7c8.vercel-dns-017.com"
+    }
+  }
 }
