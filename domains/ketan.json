@@ -15,11 +15,8 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=ketan.run-on.dev,b8e060f7a3d19b58e5f4"
+        "vc-domain-verify=ketan.runs-on.dev,4a12e4a05223b72d805c"
       ]
-    },
-    "ketan": {
-      "CNAME": "b9c48c3a642b1def.vercel-dns-017.com"
     }
   }
 }
