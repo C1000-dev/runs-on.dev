@@ -7,7 +7,7 @@
   "records": {
     "MX": [
       {
-        "priority": 10,
+        "priority": 9,
         "value": "inbound-smtp.ap-northeast-1.amazonaws.com"
       }
     ]
