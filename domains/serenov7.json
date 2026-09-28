@@ -8,5 +8,10 @@
   "country": "IT",
   "profile": {
     "name": "Sereno"
+  },
+  "subdomains": {
+    "itchio": {
+      "CNAME": "serenov7.itch.io"
+    }
   }
 }
