@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=lobo.runs-on.dev,ad5a818134f1658a8111"
-      ]
-    }
-  }
+  "country": "IN"
 }

@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "840a7bcefee07c92.vercel-dns-017.com"
   },
-  "country": "US",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=aster.runs-on.dev,2b3de77d19710dec97bd"
-      ]
-    }
-  }
+  "country": "US"
 }
