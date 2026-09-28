@@ -7,5 +7,12 @@
   "records": {
     "URL": "https://beeviro-gamaleldin.vercel.app/"
   },
-  "country": "EG"
+  "country": "EG",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=gamaleldin.runs-on.dev,418833eb7dd77cc80cd3"
+      ]
+    }
+  }
 }
