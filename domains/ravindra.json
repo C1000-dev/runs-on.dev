@@ -5,5 +5,9 @@
   },
   "claimedAt": "2026-09-18T16:22:19.685Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Ravindra Yadav",
+    "bio": "Never be afraid to try something new, because life gets boring when you stay within the limits of what you already know."
+  }
 }
