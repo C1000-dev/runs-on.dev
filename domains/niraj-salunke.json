@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-09-28T17:51:08.499Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=niraj-salunke.runs-on.dev,521a25ece4ade4fcf98d"
+      ]
+    }
+  }
 }
