@@ -10,9 +10,7 @@
   "country": "IN",
   "subdomains": {
     "_vercel": {
-      "TXT": [
-        "vc-domain-verify=jaarchith.runs-on.dev,3e81019e84ca2828d5b5"
-      ]
+      "CNAME": "0030e0867be2b992.vercel-dns-017.com"
     }
   }
 }
