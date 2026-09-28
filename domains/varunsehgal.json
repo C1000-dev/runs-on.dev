@@ -4,6 +4,8 @@
     "github": "varunsehgal05"
   },
   "claimedAt": "2026-09-28T23:13:57.634Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.comcname.vercel-dns.com"
+  },
   "country": "IN"
 }
