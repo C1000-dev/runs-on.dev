@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-09-18T07:32:24.987Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=lobo.runs-on.dev,ad5a818134f1658a8111"
+      ]
+    }
+  }
 }
