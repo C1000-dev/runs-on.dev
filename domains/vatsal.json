@@ -7,5 +7,12 @@
   "records": {
     "URL": "https://vatsaltank.netlify.app/"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "subdomain-owner-verification": {
+      "TXT": [
+        "3d4f8d11bc8ad07aa2877b82d7605090"
+      ]
+    }
+  }
 }
