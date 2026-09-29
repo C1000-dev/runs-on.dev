@@ -4,7 +4,9 @@
     "github": "Blhasn-Sehli"
   },
   "claimedAt": "2026-09-28T00:40:28.622Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "TN",
   "subdomains": {
     "_vercel": {
