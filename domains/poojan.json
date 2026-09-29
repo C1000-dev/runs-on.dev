@@ -7,5 +7,12 @@
   "records": {
     "URL": "https://portfolio-poojan.vercel.app/"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=poojan.runs-on.dev,68bedfb1efd1900cafa3"
+      ]
+    }
+  }
 }
