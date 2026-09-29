@@ -4,7 +4,9 @@
     "github": "SerenoV7"
   },
   "claimedAt": "2026-09-28T22:39:18.888Z",
-  "records": {},
+  "records": {
+    "CNAME": "serenov7.github.io"
+  },
   "country": "IT",
   "profile": {
     "name": "Sereno"
