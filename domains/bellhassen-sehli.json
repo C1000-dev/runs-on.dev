@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "runs-on.dev,000fea2450f6f3c27804"
+        "vc-domain-verify=runs-on.dev,000fea2450f6f3c27804"
       ]
     }
   }
