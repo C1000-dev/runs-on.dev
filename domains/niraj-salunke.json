@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "16832feda8aa293f.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=niraj-salunke.runs-on.dev,521a25ece4ade4fcf98d"
-      ]
-    }
-  }
+  "country": "IN"
 }

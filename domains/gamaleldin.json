@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "75526abfab936ab2.vercel-dns-017.com"
   },
-  "country": "EG",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=gamaleldin.runs-on.dev,418833eb7dd77cc80cd3"
-      ]
-    }
-  }
+  "country": "EG"
 }

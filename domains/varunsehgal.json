@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=varunsehgal.runs-on.dev,f6205a1956ada03c1c3c"
-      ]
-    }
-  }
+  "country": "IN"
 }

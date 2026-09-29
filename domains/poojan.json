@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "d4c807d5cfd13eb0.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=poojan.runs-on.dev,ee893c1b01186a01c4e3"
-      ]
-    }
-  }
+  "country": "IN"
 }
