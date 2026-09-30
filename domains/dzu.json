@@ -4,6 +4,8 @@
     "github": "Deizuu"
   },
   "claimedAt": "2026-09-30T20:07:28.729Z",
-  "records": {},
+  "records": {
+    "URL": "https://example.com/"
+  },
   "country": "FR"
 }
