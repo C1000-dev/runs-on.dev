@@ -11,11 +11,8 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=interview.runs-on.dev,a48bae83c4cd5347c023"
+        "vc-domain-verify=interview.runs-on.dev,359101ee37dbfcc73419"
       ]
-    },
-    "interview": {
-      "CNAME": "a398b3b5e172714e.vercel-dns-017.com"
     }
   }
 }
