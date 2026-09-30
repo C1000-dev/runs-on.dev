@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=interview.runs-on.dev,87ea8bbe508bf2665e89"
       ]
+    },
+    "interview": {
+      "CNAME": "a398b3b5e172714e.vercel-dns-017.com"
     }
   }
 }
