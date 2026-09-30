@@ -4,6 +4,8 @@
     "github": "theajshields"
   },
   "claimedAt": "2026-09-30T21:38:08.228Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "US"
 }
