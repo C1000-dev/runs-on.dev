@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=prashant.runs-on.dev,9e2de4fa458c9c7584d9"
-      ]
-    },
     "prashant": {
       "CNAME": "7b4e707d2667fb5f.vercel-dns-017.com"
     }
