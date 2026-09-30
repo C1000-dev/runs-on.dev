@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=interview.runs-on.dev,87ea8bbe508bf2665e89"
+        "vc-domain-verify=interview.runs-on.dev,a48bae83c4cd5347c023"
       ]
     },
     "interview": {
