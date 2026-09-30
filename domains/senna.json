@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "ephemeral-marzipan-886c9c.netlify.app"
   },
-  "country": "LY"
+  "country": "LY",
+  "subdomains": {
+    "subdomain-owner-verification": {
+      "TXT": [
+        "e69d6419436d48e4a10acc10990a6027"
+      ]
+    }
+  }
 }
