@@ -4,6 +4,8 @@
     "github": "placehol"
   },
   "claimedAt": "2026-09-28T23:47:38.044Z",
-  "records": {},
+  "records": {
+    "CNAME": "ephemeral-marzipan-886c9c.netlify.app"
+  },
   "country": "LY"
 }
