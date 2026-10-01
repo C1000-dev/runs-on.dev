@@ -4,6 +4,8 @@
     "github": "sureshtondau"
   },
   "claimedAt": "2026-10-01T09:07:13.733Z",
-  "records": {},
+  "records": {
+    "CNAME": "sureshtondau.github.io"
+  },
   "country": "IN"
 }
