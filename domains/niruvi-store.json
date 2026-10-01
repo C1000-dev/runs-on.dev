@@ -4,6 +4,8 @@
     "github": "putinservai-cyber"
   },
   "claimedAt": "2026-10-01T07:25:15.838Z",
-  "records": {},
+  "records": {
+    "CNAME": "putinservai-cyber.github.io"
+  },
   "country": "IN"
 }
