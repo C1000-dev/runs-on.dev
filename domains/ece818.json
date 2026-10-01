@@ -13,9 +13,7 @@
   },
   "subdomains": {
     "n8n": {
-      "TXT": [
-        "n8n.ailphaomega.dev"
-      ]
+      "CNAME": "n8n.ailphaomega.dev"
     }
   }
 }
