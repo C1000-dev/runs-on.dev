@@ -4,7 +4,9 @@
     "github": "vatsaltank28"
   },
   "claimedAt": "2026-09-29T18:29:37.107Z",
-  "records": {},
+  "records": {
+    "CNAME": "vatsaltank.netlify.app"
+  },
   "country": "IN",
   "subdomains": {
     "subdomain-owner-verification": {
