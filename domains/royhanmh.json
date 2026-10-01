@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-17T08:39:40.291Z",
   "records": {
-    "TXT": [
-      "google-site-verification=iW5tlOtahP3lh4ybSmw83G-jRD1KJzHvjb2iJwXBba0"
-    ]
+    "CNAME": "royhanmh.netlify.app"
   },
   "country": "SG"
 }
