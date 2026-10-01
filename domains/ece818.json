@@ -10,10 +10,5 @@
   "country": "US",
   "profile": {
     "name": "Erik Elliott"
-  },
-  "subdomains": {
-    "n8n": {
-      "CNAME": "n8n.ailphaomega.dev"
-    }
   }
 }
