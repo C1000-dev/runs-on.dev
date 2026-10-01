@@ -9,5 +9,12 @@
       "vc-domain-verify=vinayak.runs-on.dev,747ae85f77e388890fac"
     ]
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=vinayak.runs-on.dev,747ae85f77e388890fac"
+      ]
+    }
+  }
 }
