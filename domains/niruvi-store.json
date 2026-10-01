@@ -5,5 +5,8 @@
   },
   "claimedAt": "2026-10-01T04:38:22.586Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "https://github.com/putinservai-cyber/niruvi-store"
+  }
 }
