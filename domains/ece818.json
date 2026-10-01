@@ -10,5 +10,12 @@
   "country": "US",
   "profile": {
     "name": "Erik Elliott"
+  },
+  "subdomains": {
+    "n8n": {
+      "TXT": [
+        "n8n.ailphaomega.dev"
+      ]
+    }
   }
 }
