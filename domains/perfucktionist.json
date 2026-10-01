@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-01T20:16:50.143Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=perfucktionist.runs-on.dev,6c45f18c9e5d1ddea7af"
+      ]
+    }
+  }
 }
