@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "anshulsbuilds.runs-on.dev,fb7b8a6e970bbd0dd18b"
+        "vc-domain-verify=anshulsbuilds.runs-on.dev,fb7b8a6e970bbd0dd18b"
       ]
     }
   }
