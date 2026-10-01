@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "3d0c62b22da80244.vercel-dns-017.com"
   },
-  "country": "MA"
+  "country": "MA",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=zlouada.runs-on.dev,05a7be1b68d9ae30bec8"
+      ]
+    }
+  }
 }
