@@ -11,9 +11,6 @@
       "TXT": [
         "vc-domain-verify=olaleyefisayo.runs-on.dev,f4f502b74385519a82e6"
       ]
-    },
-    "olaleyefisayo": {
-      "CNAME": "d8e67b3bb0cad1f1.vercel-dns-017.com"
     }
   }
 }
