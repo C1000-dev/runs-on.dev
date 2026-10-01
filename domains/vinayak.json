@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-09-30T20:04:01.833Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "TXT": [
+      "vc-domain-verify=vinayak.runs-on.dev,747ae85f77e388890fac"
+    ]
   },
   "country": "IN"
 }
