@@ -4,7 +4,9 @@
     "github": "innovatorvinayak"
   },
   "claimedAt": "2026-10-01T20:16:50.143Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
