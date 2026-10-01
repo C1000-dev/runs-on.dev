@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=aniraku.runs-on.dev,a0d51d8ecfcd2a4ac9a1"
+        "vc-domain-verify=test.aniraku.runs-on.dev,104bdb5f0d02d22e41ab"
       ]
     }
   }
