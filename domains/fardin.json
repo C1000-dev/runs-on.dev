@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "95f57f724c87371a.vercel-dns-017.com"
   },
-  "country": "BD",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=fardin.runs-on.dev,c9f576036de73b3354d0"
-      ]
-    }
-  }
+  "country": "BD"
 }

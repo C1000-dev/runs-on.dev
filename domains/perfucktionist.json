@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=perfucktionist.runs-on.dev,6c45f18c9e5d1ddea7af"
-      ]
-    },
     "perfucktionist": {
       "CNAME": "fc36d9a715ab3e8b.vercel-dns-017.com"
     }
