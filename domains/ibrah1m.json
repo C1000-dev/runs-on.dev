@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=ibrah1m.runs-on.dev,195fdeca28923ae59d89"
       ]
+    },
+    "ibrah1m": {
+      "CNAME": "e09fef00071a2f45.vercel-dns-017.com"
     }
   }
 }
