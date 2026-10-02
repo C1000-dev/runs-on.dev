@@ -13,6 +13,9 @@
       "TXT": [
         "reclaim-1iego1pr14sj7p16v74ucgbjqrxmkquc"
       ]
+    },
+    "_dnsauth": {
+      "CNAME": "lingoplay.runs-on.dev.eoacme0.com"
     }
   }
 }
