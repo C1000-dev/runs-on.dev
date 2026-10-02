@@ -4,7 +4,9 @@
     "github": "stharan06"
   },
   "claimedAt": "2026-10-02T14:15:41.107Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
