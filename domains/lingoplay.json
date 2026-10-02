@@ -4,7 +4,9 @@
     "github": "ningfou"
   },
   "claimedAt": "2026-10-02T14:04:45.728Z",
-  "records": {},
+  "records": {
+    "CNAME": "lingoplay.runs-on.dev.pages.dnsoe5.com"
+  },
   "country": "US",
   "subdomains": {
     "edgeonereclaim": {
