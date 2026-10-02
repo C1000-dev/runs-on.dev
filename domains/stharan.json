@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-02T14:15:41.107Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,4a6c0ea79989d7a9b9d3"
+      ]
+    }
+  }
 }
