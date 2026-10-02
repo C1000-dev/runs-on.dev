@@ -15,7 +15,9 @@
       ]
     },
     "_dnsauth": {
-      "CNAME": "lingoplay.runs-on.dev.eoacme0.com"
+      "TXT": [
+        "20261002151016l2mjb5n7sn5z06s5fk68a8oswojetoq"
+      ]
     }
   }
 }
