@@ -7,5 +7,17 @@
   "records": {
     "URL": "http://13.127.152.210:8000"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "arib": {
+      "TXT": [
+        "c01f80b03f80dac0.vercel-dns-017.com."
+      ]
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=arib.runs-on.dev,bc0eff6be2f297ec5b6c"
+      ]
+    }
+  }
 }
