@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-02T14:04:45.728Z",
   "records": {},
-  "country": "US"
+  "country": "US",
+  "subdomains": {
+    "edgeonereclaim": {
+      "TXT": [
+        "reclaim-1iego1pr14sj7p16v74ucgbjqrxmkquc"
+      ]
+    }
+  }
 }
