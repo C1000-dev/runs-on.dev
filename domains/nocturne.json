@@ -4,6 +4,8 @@
     "github": "Kuba5405"
   },
   "claimedAt": "2026-10-02T22:35:54.969Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "CH"
 }
