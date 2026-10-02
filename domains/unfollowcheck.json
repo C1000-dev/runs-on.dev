@@ -4,6 +4,8 @@
     "github": "team-collabrate"
   },
   "claimedAt": "2026-10-02T11:58:16.674Z",
-  "records": {},
+  "records": {
+    "CNAME": "8b42da26173d10dd.vercel-dns-017.com"
+  },
   "country": "IN"
 }
