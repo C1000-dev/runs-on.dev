@@ -10,7 +10,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "_vercel.runs-on.dev"
+        "vc-domain-verify=tarunpandore.runs-on.dev,f13b296c9b7b4be650cf"
       ]
     }
   }
