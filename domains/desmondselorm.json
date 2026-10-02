@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "onukux2e.up.railway.app"
   },
-  "country": "GH"
+  "country": "GH",
+  "subdomains": {
+    "_railway-verify.desmondselorm": {
+      "TXT": [
+        "railway-verify=07af1446dfa57b0875a36160dd87ceb4da3d5ed8b35e976a1f7fa4c2d0331562"
+      ]
+    }
+  }
 }
