@@ -8,10 +8,8 @@
     "CNAME": "cname.vercel-dns.com"
   },
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=tarunpandore.runs-on.dev,f13b296c9b7b4be650cf"
-      ]
+    "tarunpandore": {
+      "CNAME": "3905c9c4148cd935.vercel-dns-017.com"
     }
   }
 }
