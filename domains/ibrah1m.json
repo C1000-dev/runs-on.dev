@@ -4,6 +4,8 @@
     "github": "muhammadwalibelal-wq"
   },
   "claimedAt": "2026-10-02T10:05:09.028Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "PK"
 }
