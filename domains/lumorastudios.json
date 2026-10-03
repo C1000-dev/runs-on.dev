@@ -4,6 +4,8 @@
     "github": "vibecoderaditya-tmr"
   },
   "claimedAt": "2026-10-03T07:25:33.492Z",
-  "records": {},
+  "records": {
+    "CNAME": "e75ece012fe207a9.vercel-dns-017.com"
+  },
   "country": "IN"
 }
