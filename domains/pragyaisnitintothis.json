@@ -4,6 +4,10 @@
     "github": "RishabhAnand04"
   },
   "claimedAt": "2026-10-03T08:57:27.035Z",
-  "records": {},
+  "records": {
+    "A": [
+      "185.199.108.153"
+    ]
+  },
   "country": "IN"
 }
