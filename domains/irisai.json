@@ -4,6 +4,8 @@
     "github": "KIRTAN0902"
   },
   "claimedAt": "2026-10-03T05:57:52.851Z",
-  "records": {},
+  "records": {
+    "CNAME": "irisai.vercel-dns.com"
+  },
   "country": "IN"
 }
