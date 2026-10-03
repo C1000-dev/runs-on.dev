@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-10-03T07:13:01.664Z",
   "records": {
-    "TXT": [
-      "vc-domain-verify=lumorastudios.runs-on.dev,4afe1e81678ae813fd97"
-    ]
+    "CNAME": "e75ece012fe207a9.vercel-dns-017.com"
   },
   "country": "IN"
 }
