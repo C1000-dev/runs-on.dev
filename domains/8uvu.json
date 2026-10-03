@@ -4,6 +4,8 @@
     "github": "8uvu"
   },
   "claimedAt": "2026-10-02T17:37:25.387Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "AT"
 }
