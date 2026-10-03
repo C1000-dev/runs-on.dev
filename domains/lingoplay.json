@@ -18,6 +18,11 @@
       "TXT": [
         "20261002151016l2mjb5n7sn5z06s5fk68a8oswojetoq"
       ]
+    },
+    "_acme-challenge": {
+      "TXT": [
+        "Nogyh9V72j83YL7E9N5TlptgbkzmJ8MOfka8nBGfeCM"
+      ]
     }
   }
 }
