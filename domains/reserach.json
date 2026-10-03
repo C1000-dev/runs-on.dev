@@ -4,6 +4,8 @@
     "github": "timetorepo"
   },
   "claimedAt": "2026-10-03T05:08:30.682Z",
-  "records": {},
+  "records": {
+    "CNAME": "timetorepo.github.io"
+  },
   "country": "ID"
 }
