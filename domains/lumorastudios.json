@@ -4,6 +4,8 @@
     "github": "tmraditya"
   },
   "claimedAt": "2026-10-03T05:58:54.160Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
