@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "irisai.vercel-dns.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=irisai.runs-on.dev,e7907099b301e7ec5b8b"
+      ]
+    }
+  }
 }
