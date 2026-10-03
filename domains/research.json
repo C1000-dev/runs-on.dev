@@ -4,7 +4,9 @@
     "github": "timetorepo"
   },
   "claimedAt": "2026-10-03T05:12:36.812Z",
-  "records": {},
+  "records": {
+    "CNAME": "timetorepo.github.io"
+  },
   "country": "ID",
   "profile": {
     "name": "dnishh",
