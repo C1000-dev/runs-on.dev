@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "AT"
+  "country": "AT",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,65c548e69d463a1534f2"
+      ]
+    }
+  }
 }
